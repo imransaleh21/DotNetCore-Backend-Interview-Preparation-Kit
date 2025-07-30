@@ -1,0 +1,40 @@
+# Build output folders
+**/bin/
+**/obj/
+
+# Debug folders (optional, usually covered by bin/ and obj/)
+**/Debug/
+
+# User-specific files
+*.user
+*.suo
+
+# Visual Studio files and folders
+.vs/
+.vscode/
+
+# Log files
+*.log
+
+# Rider IDE files (if you ever use JetBrains Rider)
+.idea/
+
+# Publish output folder
+publish/
+
+# NuGet packages folder
+*.nupkg
+packages/
+
+# ASP.NET Core runtime config files
+*.runtimeconfig.json
+
+# Dotnet tools folder
+.toolstarget/
+
+# IIS Express logs and config
+iisexpress/
+
+# Other system files
+Thumbs.db
+.DS_Store
