@@ -6,7 +6,9 @@
     /// To follow OCP, we must follow SRP (Single Responsibility Principle) first because SRP is a prerequisite for OCP.
     /// </summary>
 
-    // The Account class violates OCP because it requires modification to add new account types
+    // The commented-out scenario below violates the Open/Closed Principle (OCP)
+    // because the Account class requires modification whenever a new account type is introduced,
+    // rather than being extended through new classes.
     /*
     internal class Account 
     {
