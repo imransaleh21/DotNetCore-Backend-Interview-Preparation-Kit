@@ -1,2 +1,1 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//Brother, please visit the following five folders to gain a better understanding of the SOLID principles.
